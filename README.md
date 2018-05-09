@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140199179@N06/28131759358/in/dateposted-public/" title="Screen Shot 2018-05-10 at 05.06.43"><img src="https://farm1.staticflickr.com/907/28131759358_331fdf029f_s.jpg" width="75" height="75" alt="Screen Shot 2018-05-10 at 05.06.43"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ![alt text](<a data-flickr-embed="true"  href="https://www.flickr.com/photos/140199179@N06/28131759358/in/dateposted-public/" title="Screen Shot 2018-05-10 at 05.06.43"><img src="https://farm1.staticflickr.com/907/28131759358_331fdf029f_s.jpg" width="75" height="75" alt="Screen Shot 2018-05-10 at 05.06.43"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>)
 You can use the [editor on GitHub](https://github.com/longliqiyi/lonhaoojojijo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
