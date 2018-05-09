@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Imgur](https://i.imgur.com/O6jkEVp.png)
+![Imgur](https://i.imgur.com/O6jkEVp.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
